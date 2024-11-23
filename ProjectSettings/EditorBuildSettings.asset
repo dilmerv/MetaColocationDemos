@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ColocationBasicDemo.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ColocationLightSaberDemo.unity
+    guid: 9efa30e9dac2989408f684f75eeca312
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5ad317c36096cc8458d4f1cfaf449337,
       type: 2}
