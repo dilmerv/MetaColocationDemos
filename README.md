@@ -1,5 +1,5 @@
 # Meta Colocation Demo(s)
-This repository showcases the use of Meta Multiplayer Building Blocks for Unity, specifically as of now with Mixed Reality Colocation features. 📢 For additional info on Meta's SDK & Colocation 🔗 [check these useful docs](https://bit.ly/3CKf1lG).
+This repository showcases the use of Meta's Multiplayer Building Blocks for Unity, focusing specifically on the Meta Mixed Reality Colocation features. For additional info on Meta's SDK & Colocation 👉 🔗 [check out these useful docs](https://bit.ly/3CKf1lG).
 
 🎬 _Watch [this video](https://youtu.be/bXhgsAVkaQw) for a step by step dive on creating the 🕹️ demos below._
 
@@ -13,6 +13,3 @@ This repository showcases the use of Meta Multiplayer Building Blocks for Unity,
 |<img src="https://github.com/dilmerv/MetaColocationDemos/blob/master/Docs/images/MetaColocationDemo_1.gif" width="560">|
 |Colocation LightSaber(s) Demo|
 |<img src="https://github.com/dilmerv/MetaColocationDemos/blob/master/Docs/images/MetaColocationDemo_2.gif" width="560">|
-
-## Very Useful Meta Resource
-Logitech did an amazing job in providing detailed docs, [Unity packages & samples](https://logitech.github.io/mxink/UnityIntegration.html). There're also excellent resources for other platforms [here](https://logitech.github.io/mxink).
