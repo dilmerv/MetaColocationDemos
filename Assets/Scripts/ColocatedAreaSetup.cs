@@ -45,6 +45,7 @@ public class ColocatedAreaSetup : NetworkBehaviour
         }
 
         var largestTableSurface = MRUK.Instance?.GetCurrentRoom()?
+            // TODO - change this later on to be passed in as an option
             .FindLargestSurface(MRUKAnchor.SceneLabels.TABLE);
 
         if (largestTableSurface != null)

@@ -4676,7 +4676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SpawnOnStart: 1
-  MeshMaterial: {fileID: 0}
+  MeshMaterial: {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
   BorderSize: 0
   Colliders: 1
   CutHoles: 0
@@ -8985,7 +8985,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &689522826
 Transform:
   m_ObjectHideFlags: 0
@@ -9014,17 +9014,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _handGrabInteractor: {fileID: 768705286}
-  _handVisual: {fileID: 0}
-  _handRenderer: {fileID: 0}
-  _materialEditor: {fileID: 0}
-  _glowColorGrabing: {r: 1, g: 1, b: 1, a: 0}
-  _glowColorHover: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 0}
+  _handVisual: {fileID: 412943139}
+  _handRenderer: {fileID: 1432383307}
+  _materialEditor: {fileID: 1432383306}
+  _glowColorGrabing: {r: 0, g: 0.6387434, b: 1, a: 1}
+  _glowColorHover: {r: 0.72156864, g: 0.29411766, b: 0.29411766, a: 0}
   _colorChangeSpeed: 0.5
   _glowFadeStartTime: 0.2
   _glowStrengthChangeSpeed: 0.5
   _fadeOut: 0
   _gradientLength: 0.85
-  _glowType: 28
+  _glowType: 29
 --- !u!1 &689524967
 GameObject:
   m_ObjectHideFlags: 0
@@ -9597,7 +9597,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &715632983
 Transform:
   m_ObjectHideFlags: 0
@@ -9626,7 +9626,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _handGrabState: {fileID: 768705286}
-  _syntheticHand: {fileID: 0}
+  _syntheticHand: {fileID: 685106292}
 --- !u!1 &723902285
 GameObject:
   m_ObjectHideFlags: 0
@@ -13564,7 +13564,7 @@ MonoBehaviour:
   colocationController: {fileID: 551598476}
   spawnedNetworkObjectPrefab: {fileID: 2008594250119575678, guid: 6746fc49999f627488caadbf0c6b5d5e,
     type: 3}
-  spawnedNetworkObjectOffset: {x: 0, y: 0.5, z: 0}
+  spawnedNetworkObjectOffset: {x: 0, y: 0.5, z: 1.5}
   spawnAmount: 2
 --- !u!1 &1113556267
 GameObject:
@@ -16437,7 +16437,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1417427660
 Transform:
   m_ObjectHideFlags: 0
@@ -16466,17 +16466,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _handGrabInteractor: {fileID: 1521797547}
-  _handVisual: {fileID: 0}
-  _handRenderer: {fileID: 0}
-  _materialEditor: {fileID: 0}
-  _glowColorGrabing: {r: 1, g: 1, b: 1, a: 0}
-  _glowColorHover: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 0}
+  _handVisual: {fileID: 796340171}
+  _handRenderer: {fileID: 756098425}
+  _materialEditor: {fileID: 756098424}
+  _glowColorGrabing: {r: 0, g: 0.6387434, b: 1, a: 1}
+  _glowColorHover: {r: 0.72327036, g: 0.29340205, b: 0.29340205, a: 0}
   _colorChangeSpeed: 0.5
   _glowFadeStartTime: 0.2
   _glowStrengthChangeSpeed: 0.5
   _fadeOut: 0
   _gradientLength: 0.85
-  _glowType: 28
+  _glowType: 29
 --- !u!1 &1418961173
 GameObject:
   m_ObjectHideFlags: 0
@@ -21523,7 +21523,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1915724789
 Transform:
   m_ObjectHideFlags: 0
@@ -21552,7 +21552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _handGrabState: {fileID: 1521797547}
-  _syntheticHand: {fileID: 0}
+  _syntheticHand: {fileID: 1049148356}
 --- !u!1 &1917341882
 GameObject:
   m_ObjectHideFlags: 0

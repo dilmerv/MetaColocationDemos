@@ -26,7 +26,7 @@ PrefabInstance:
     - target: {fileID: 2473314577452775205, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
       propertyPath: GlobalObjectIdHash
-      value: 4056204475
+      value: 3131605147
       objectReference: {fileID: 0}
     - target: {fileID: 2473314577452775205, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
@@ -36,17 +36,17 @@ PrefabInstance:
     - target: {fileID: 5051580893897670779, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.22350037
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5051580893897670779, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.22350037
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5051580893897670779, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.23113209
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5093791920530703188, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
@@ -141,12 +141,12 @@ PrefabInstance:
     - target: {fileID: 6612306959276078633, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
       propertyPath: m_Name
-      value: PlayerNameTagNGO Variant
+      value: PlayerNameTagNGO
       objectReference: {fileID: 0}
     - target: {fileID: 8646263473796014876, guid: e6e1b232a4f038c4684c307eb3088311,
         type: 3}
       propertyPath: heightOffset
-      value: 0.2
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
